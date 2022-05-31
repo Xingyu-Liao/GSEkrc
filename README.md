@@ -6,7 +6,7 @@ Please see the latest version of GSET:https://github.com/Xingyu-Liao/GSEkrc
 License
 =======
 
-Copyright (C) 2022    Xingyu Liao    ( Xingyu_Liao@126.com / xingyu.liao@kaust.edu.sa )
+Copyright (C) 2022    Xingyu Liao    ( qing.zhan@kaust.edu.sa / xingyu.liao@kaust.edu.sa )
 
 Computer, Electrical and Mathematical Sciences and Engineering Division,
 King Abdullah University of Science and Technology (KAUST),
